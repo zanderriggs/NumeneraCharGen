@@ -1,0 +1,1065 @@
+{
+    "descriptors": [
+        {
+            "descriptor_id": 1,
+            "name": "Charming",
+            "might": 0,
+            "speed": 0,
+            "intellect": 2,
+            "armor": 0,
+            "recovery": 0,
+            "training": ["Pleasant Social Interaction","Mind-Influecning Esoteries"],
+            "inability":["Lore", "Knowledge"],
+            "traits": [],
+            "equipment": [],
+            "shins": 10,
+            "page": "Discovery page 53",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet purus gravida quis blandit. Vestibulum morbi blandit cursus risus."
+        },
+        {
+            
+            "descriptor_id": 2,
+            "name": "Clever",
+            "might": 0,
+            "speed": 0,
+            "intellect": 2,
+            "armor": 0,
+            "recovery": 0,
+            "training": ["Lies","Trickery","Resisting Mental Effects","Identifying/Assessing Danger, Lies, Quality, Importance, Function, or power"],
+            "inability":["Lore","Knowledge"],
+            "traits": [],
+            "equipment": [],
+            "shins": 10,
+            "page": "",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet purus gravida quis blandit. Vestibulum morbi blandit cursus risus."
+        },
+        {
+            "descriptor_id": 3,
+            "name": "Graceful",
+            "might": 0,
+            "speed": 2,
+            "intellect": 0,
+            "armor": 0,
+            "recovery": 0,
+            "training": ["Balance/Graceful Movement","Physical Performing Arts", "speed Defense"],
+            "inability":[],
+            "traits": [],
+            "equipment": [],
+            "shins": 0,
+            "page": "",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet purus gravida quis blandit. Vestibulum morbi blandit cursus risus."
+        },
+        {
+            "descriptor_id": 4,
+            "name": "Intelligent",
+            "might": 0,
+            "speed": 0,
+            "intellect": 2,
+            "armor": 0,
+            "recovery": 0,
+            "training": ["One Field of Knowledge", "Memorization"],
+            "inability":[],
+            "traits": [],
+            "equipment": [],
+            "shins": 0,
+            "page": "",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet purus gravida quis blandit. Vestibulum morbi blandit cursus risus."
+        },
+        {
+            "descriptor_id": 5,
+            "name": "Learned",
+            "might": 0,
+            "speed": 0,
+            "intellect": 2,
+            "armor": 0,
+            "recovery": 0,
+            "training": ["Three Areas of Knowledge"],
+            "inability":["Charm/Persuasion/Etiquette"],
+            "traits": [],
+            "equipment": ["2 books"],
+            "shins": 0,
+            "page": "Discovery page 55",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet purus gravida quis blandit. Vestibulum morbi blandit cursus risus."
+        },
+        {
+            "descriptor_id": 6,
+            "name": "Mystical/Mechanical",
+            "might": 0,
+            "speed": 0,
+            "intellect": 2,
+            "armor": 0,
+            "recovery": 0,
+            "training": ["Understanding Numenera"],
+            "inability":[],
+            "traits": ["Sense Magic", "Hedge Magic"],
+            "equipment": [],
+            "shins": 0,
+            "page": "Discovery page 55",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet purus gravida quis blandit. Vestibulum morbi blandit cursus risus."
+        },
+        {
+            "descriptor_id": 7,
+            "name": "Rugged",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "armor": 0,
+            "recovery": 0,
+            "training": ["Climbing","Jumping","Running","Swimming","training/Riding/Placating Natural Animals","Identifying/Using Natural Plants"],
+            "inability":["Charm/Persuasion/Etiquette"],
+            "traits": [],
+            "equipment": ["1 Explorer's pack","1 Ranged weapon"],
+            "shins": 0,
+            "page": "Discovery page 56",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet purus gravida quis blandit. Vestibulum morbi blandit cursus risus."
+        },
+        {
+            "descriptor_id": 8,
+            "name": "Stealthy",
+            "might": 0,
+            "speed": 2,
+            "intellect": 0,
+            "armor": 0,
+            "recovery": 0,
+            "training": ["Stealth","Lies","Trickery","Illusion Esoteries"],
+            "inability":["speed Tasks"],
+            "traits": [],
+            "equipment": [],
+            "shins": 0,
+            "page": "Discovery page 56",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet purus gravida quis blandit. Vestibulum morbi blandit cursus risus."
+        },
+        {
+            "descriptor_id": 9,
+            "name": "Strong",
+            "might": 4,
+            "speed": 0,
+            "intellect": 0,
+            "armor": 0,
+            "recovery": 0,
+            "training": ["Breaking Inanimate Objects","Jumping"],
+            "inability":[],
+            "traits": [],
+            "equipment": ["1 Medium or Heavy Weapon"],
+            "shins": 0,
+            "page": "Discovery page 57",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet purus gravida quis blandit. Vestibulum morbi blandit cursus risus."
+        },
+        {
+            "descriptor_id": 10,
+            "name": "Strong-Willed",
+            "might": 0,
+            "speed": 0,
+            "intellect": 4,
+            "armor": 0,
+            "recovery": 0,
+            "training": ["Resisting Mental Effects","Focus/Concentration"],
+            "inability":["Memorization/Focus","Puzzles"],
+            "traits": [],
+            "equipment": [],
+            "shins": 0,
+            "page": "Discovery page 57",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet purus gravida quis blandit. Vestibulum morbi blandit cursus risus."
+        },
+        {
+            "descriptor_id": 11,
+            "name": "Swift",
+            "might": 0,
+            "speed": 4,
+            "intellect": 0,
+            "armor": 0,
+            "recovery": 0,
+            "training": ["Initiative","Running"],
+            "inability":["Balance"],
+            "traits": [],
+            "equipment": [],
+            "shins": 0,
+            "page": "Discovery page 57",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet purus gravida quis blandit. Vestibulum morbi blandit cursus risus."
+        },
+        {
+            "descriptor_id": 12,
+            "name": "Tough",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "armor": 1,
+            "recovery": 1,
+            "training": ["might Defense"],
+            "inability":[],
+            "traits": [],
+            "equipment": ["1 Light Weapon"],
+            "shins": 0,
+            "page": "Discovery page 57",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet purus gravida quis blandit. Vestibulum morbi blandit cursus risus."
+        }
+    ],
+    "types": [
+        {
+            "type_id": 1,
+            "name": "Glaive",
+            "might": 11,
+            "speed": 10,
+            "intellect": 7,
+            "might_edge": 1,
+            "speed_edge": 1,
+            "intellect_edge": 0,
+            "Effort": 1,
+            "traits": [
+                "Trained in armor",
+                "Weapons"
+            ],
+            "training": [
+                "Balancing",
+                "Climbing",
+                "Jumping",
+                "Swimming"
+            ],
+            "inability": [
+                "Crafting numenera",
+                "Salvaging numenera",
+                "Understanding numenera"
+            ],
+            "equipment": [
+                "Simple clothing",
+                "2 weapons",
+                "Light or medium armor",
+                "1 Explorer's pack",
+                "2 Cyphers",
+                "1 Oddity"
+            ],
+            "shins": 5,
+            "page": "Discovery page 28",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        },
+        {
+            "type_id": 2,
+            "name": "Jack",
+            "might": 10,
+            "speed": 10,
+            "intellect": 10,
+            "might_edge": 0,
+            "speed_edge": 1,
+            "intellect_edge": 0,
+            "Effort": 1,
+            "traits": [
+                "Light and medium weapons"
+            ],
+            "training": [],
+            "inability": [],
+            "equipment": [
+                "Simple clothing",
+                "2 weapons",
+                "Light or medium armor",
+                "1 Explorer's pack",
+                "2 Cyphers",
+                "1 Oddity"
+            ],
+            "shins": 8,
+            "page": "Discovery page 44",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed ullamcorper morbi tincidunt ornare massa eget. Libero enim sed faucibus turpis in eu. Condimentum lacinia quis vel eros donec ac. Felis donec et odio pellentesque diam volutpat. Diam quis enim lobortis scelerisque. Nunc eget lorem dolor sed viverra ipsum. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor eu. Egestas sed tempus urna et pharetra pharetra massa massa ultricies. Scelerisque varius morbi enim nunc faucibus a pellentesque. Sed enim ut sem viverra aliquet. Aliquam etiam erat velit scelerisque. Nulla posuere sollicitudin aliquam ultrices."
+        },
+        {
+            "type_id": 3,
+            "name": "Nano",
+            "might": 7,
+            "speed": 9,
+            "intellect": 12,
+            "might_edge": 0,
+            "speed_edge": 0,
+            "intellect_edge": 1,
+            "Effort": 1,
+            "training": [
+                "Numenera"
+            ],
+            "traits": [
+                "Practiced with Light Weapons"
+            ],
+            "equipment": [
+                "Simple clothing",
+                "1 weapon",
+                "A book about Numenera",
+                "3 cyphers",
+                "1 oddity"
+            ],
+            "page": "Discovery pg 36",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero. Massa sapien faucibus et molestie ac feugiat. Tristique et egestas quis ipsum suspendisse ultrices. Dapibus ultrices in iaculis nunc sed augue lacus viverra vitae. Sit amet consectetur adipiscing elit duis tristique sollicitudin. Sit amet nisl purus in mollis nunc. Et netus et malesuada fames ac turpis egestas. Placerat vestibulum lectus mauris ultrices eros in cursus turpis massa."
+        }
+    ],
+    "foci": [
+        {
+            "focus_id": 1,
+            "name": "Bears a Halo of Fire",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": ["Fire powers"],
+            "abilities": [
+                    {
+                        "tier": 1,
+                        "name": "Shroud of Flame",
+                        "choice": false,
+                        "training": [],
+                        "cost": "1 intellect",
+                        "page": "Destiny page 59",
+                        "description": ""
+                    },
+                    {
+                        "tier": 2,
+                        "name": "Hurl Flame",
+                        "choice": false,
+                        "training": [],
+                        "cost": "2 intellect",
+                        "page": "Destiny page 59",
+                        "description": ""
+                    },
+                    {
+                        "tier": 2,
+                        "name": "Fiery power",
+                        "choice": false,
+                        "training": [],
+                        "cost": "",
+                        "page": "Destiny page 59",
+                        "description": ""
+                    },
+                    {
+                        "tier": 3,
+                        "name": "Fiery Hand of Doom",
+                        "choice": true,
+                        "training": [],
+                        "cost": "3 intellect",
+                        "page": "Destiny page 59",
+                        "description": ""
+                    },
+                    {
+                        "tier": 3,
+                        "name": "Wings of Fire",
+                        "choice": true,
+                        "training": [],
+                        "cost": "4 intellect",
+                        "page": "Destiny page 59",
+                        "description": ""
+                    },
+                    {
+                        "tier": 4,
+                        "name": "Flameblade",
+                        "choice": false,
+                        "training": [],
+                        "cost": "4 intellect",
+                        "page": "Destiny page 59",
+                        "description": ""
+                    },
+                    {
+                        "tier": 5,
+                        "name": "Fire Tendrils",
+                        "choice": false,
+                        "training": [],
+                        "cost": "5 intellect",
+                        "page": "Destiny page 59",
+                        "description": ""
+                    },
+                    {
+                        "tier": 6,
+                        "name": "Fire Servant",
+                        "choice": true,
+                        "training": [],
+                        "cost": "6 intellect",
+                        "page": "Destiny page 59",
+                        "description": ""
+                    },
+                    {
+                        "tier": 6,
+                        "name": "Inferno Trail",
+                        "choice": true,
+                        "training": [],
+                        "cost": "6 intellect",
+                        "page": "Destiny page 59",
+                        "description": ""
+                    }
+            ],
+            "equipment": ["An artifact that makes inanimate objects fire-resistant"],
+            "page": "Destiny page 59",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 2,
+            "name": "Commands Mental powers",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": ["Mental Esoteries"],
+            "abilities":[
+                    {
+                        "tier": 1,
+                        "name": "Telepathic",
+                        "choice": false,
+                        "training": [],
+                        "cost": "1+ intellect",
+                        "page": "Destiny page 60",
+                        "description": ""
+                    }
+            ],
+            "equipment": ["An artifact that, when worn, adds 1 point to your intellect Pool. If you’re ever without the artifact, subtract 5 points from your intellect Pool. The points are restored if you regain the item."],
+            "page": "Destiny page 60",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 3,
+            "name": "Controls Beasts",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Beast Companion",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 62",
+                    "description": ""
+                }
+            ],
+            "equipment": ["3 days worth of food", "1 collar/harness"],
+            "page": "Destiny page 62",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 4,
+            "name": "Controls Gravity",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": ["Gravity Ability"],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Weighty",
+                    "choice": true,
+                    "training": [],
+                    "cost": "1 intellect",
+                    "page": "Destiny page 64",
+                    "description": ""
+                },
+                {
+                    "tier": 1,
+                    "name": "Hover",
+                    "choice": false,
+                    "training": [],
+                    "cost": "1 intellect",
+                    "page": "Destiny page 64",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 oddity that tells the weight of whatever you point it at (within short range)"],
+            "page": "Destiny page 63",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 5,
+            "name": "Crafts Illusions",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Minor Illusion",
+                    "choice": false,
+                    "training": [],
+                    "cost": "1 intellect",
+                    "page": "Destiny page 66",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 oddity that can make random images appear on its surface."],
+            "page": "Destiny page 65",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 6,
+            "name": "Employs Magnetism",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Moves Metal",
+                    "choice": false,
+                    "training": [],
+                    "cost": "1 intellect",
+                    "page": "Destiny page 67",
+                    "description": ""
+                }
+            ],
+            "equipment": [],
+            "page": "Destiny page 67",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 7,
+            "name": "Entertains",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Levity",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 68",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 musical instrument"],
+            "page": "Destiny page 68",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 8,
+            "name": "Exists Partially Out of Phase",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Walk Through Walls",
+                    "choice": false,
+                    "training": [],
+                    "cost": "2 intellect",
+                    "page": "Destiny page 70",
+                    "description": ""
+                }
+            ],
+            "equipment": [],
+            "page": "Destiny page 69",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 9,
+            "name": "Explores Dark Places",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": ["Darkness powers"],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Darkness powers",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 71",
+                    "description": ""
+                },
+                {
+                    "tier": 1,
+                    "name": "Superb Explorer",
+                    "choice": false,
+                    "training": ["Searching","Listening","Climbing","Balancing","Jumping"],
+                    "cost": "",
+                    "page": "Destiny page 71",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 Explorer's pack", "2 minor glowglobes"],
+            "page": "Destiny page 71",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 10,
+            "name": "Fights With Panache",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Attack Flourish",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 72",
+                    "description": ""
+                }
+            ],
+            "equipment": ["Stylish clothes","1 jeweled weapon"],
+            "page": "Destiny page 72",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 11,
+            "name": "Focuses Mind Over Matter",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": ["Mental powers"],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Mental powers",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 73",
+                    "description": ""
+                },
+                {
+                    "tier": 1,
+                    "name": "Deflect Attacks",
+                    "choice": false,
+                    "training": [],
+                    "cost": "1 intellect",
+                    "page": "Destiny page 73",
+                    "description": ""
+                }
+            ],
+            "equipment": [],
+            "page": "Destiny page 73",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 12,
+            "name": "Fuses Flesh and Steel",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Enhanced Body",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 75",
+                    "description": ""
+                },
+                {
+                    "tier": 1,
+                    "name": "Special Healing",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 75",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 bag of light tools", "1 bag of parts for repair"],
+            "page": "Destiny page 74",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 13,
+            "name": "Howls at the Moon",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Beast Form",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 77",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 accurate chronometer artifact"],
+            "page": "Destiny page 76",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 14,
+            "name": "Hunts",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Tracker",
+                    "choice": false,
+                    "training": ["Identifying/Following Tracks"],
+                    "cost": "",
+                    "page": "Destiny page 77",
+                    "description": ""
+                },
+                {
+                    "tier": 1,
+                    "name": "Stalker",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 77",
+                    "description": ""
+                }
+            ],
+            "equipment": ["Boots that muffle your footsteps"],
+            "page": "Destiny page 77",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 15,
+            "name": "Lives in the Wilderness",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Wilderness Life",
+                    "choice": false,
+                    "training": ["Choose 2: Climbing, Swimming, Navigation, Identifying plants/creatures"],
+                    "cost": "",
+                    "page": "Destiny page 78",
+                    "description": ""
+                },
+                {
+                    "tier": 1,
+                    "name": "Wild Hardiness",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 78",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 directional compass"],
+            "page": "Destiny page 78",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 16,
+            "name": "Masters Defense",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Shield Master",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 80",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 shield"],
+            "page": "Destiny page 80",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 17,
+            "name": "Masters Weaponry",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Weaponry powers",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 81",
+                    "description": ""
+                },
+                {
+                    "tier": 1,
+                    "name": "Weapon Master",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 81",
+                    "description": ""
+                },
+                {
+                    "tier": 1,
+                    "name": "Weapon Crafter",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 81",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 high-quality weapon"],
+            "page": "Destiny page 80",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 18,
+            "name": "Murders",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Surprise Attack",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 82",
+                    "description": ""
+                },
+                {
+                    "tier": 1,
+                    "name": "Natural Assassin",
+                    "choice": false,
+                    "training": ["Stealth","Disguise"],
+                    "cost": "",
+                    "page": "Destiny page 82",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 disguise kit","3 doses of level 2 blade poison"],
+            "page": "Destiny page 82",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 19,
+            "name": "Rages",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Frenzy",
+                    "choice": false,
+                    "training": [],
+                    "cost": "1 intellect",
+                    "page": "Destiny page 83",
+                    "description": ""
+                }
+            ],
+            "equipment": [],
+            "page": "Destiny page 83",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 20,
+            "name": "Rides the Lightening",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Electrical abilities",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 84",
+                    "description": ""
+                },
+                {
+                    "tier": 1,
+                    "name": "Shock",
+                    "choice": false,
+                    "training": [],
+                    "cost": "1 intellect",
+                    "page": "Destiny page 84",
+                    "description": ""
+                },
+                {
+                    "tier": 1,
+                    "name": "Charge",
+                    "choice": false,
+                    "training": [],
+                    "cost": "1+ intellect",
+                    "page": "Destiny page 84",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 bag of miscellaneous batteries"],
+            "page": "Destiny page 83",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 21,
+            "name": "Speaks With a Silver Tongue",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Poetic License",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 85",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 small book of quotes and speeches"],
+            "page": "Destiny page 85",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 22,
+            "name": "Talks to Machines",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Machine Affinity",
+                    "choice": false,
+                    "training": ["Tasks involving electrical machines"],
+                    "cost": "",
+                    "page": "Destiny page 86",
+                    "description": ""
+                },
+                {
+                    "tier": 1,
+                    "name": "Distant Activation",
+                    "choice": false,
+                    "training": [],
+                    "cost": "1 intellect",
+                    "page": "Destiny page 86",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 bag of light tools"],
+            "page": "Destiny page 86",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 23,
+            "name": "Wears a Sheen of Ice",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Ice armor",
+                    "choice": false,
+                    "training": [],
+                    "cost": "1 intellect",
+                    "page": "Destiny page 88",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 stronglass blade"],
+            "page": "Destiny page 87",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 24,
+            "name": "Weilds power With Precision",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Genius",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 89",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 book about numenera"],
+            "page": "Destiny page 89",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 25,
+            "name": "Wields Two Weapons at Once",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Dual Light Wield",
+                    "choice": false,
+                    "training": [],
+                    "cost": "",
+                    "page": "Destiny page 90",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 Light Weapon"],
+            "page": "Destiny page 90",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 26,
+            "name": "Works the Back Alleys",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Thief",
+                    "choice": false,
+                    "training": ["Sneaking","Pickpocketing","Lockpicking"],
+                    "cost": "",
+                    "page": "Destiny page 91",
+                    "description": ""
+                }
+            ],
+            "equipment": ["1 bag of light tools"],
+            "page": "Destiny page 90",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        },
+        {
+            "focus_id": 27,
+            "name": "Works Miracles",
+            "might": 0,
+            "speed": 0,
+            "intellect": 0,
+            "power": [],
+            "abilities":[
+                {
+                    "tier": 1,
+                    "name": "Healing Touch",
+                    "choice": false,
+                    "training": [],
+                    "cost": "1 intellect",
+                    "page": "Destiny page 90",
+                    "description": ""
+                }
+            ],
+            "equipment": [],
+            "page": "Destiny page 92",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ultricies mi eget mauris pharetra et ultrices neque ornare."
+        }
+    ]
+}
